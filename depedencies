@@ -1,0 +1,15 @@
+#conda python 3.11.11
+
+pandas
+seaborn
+matplotlib
+kagglehub
+python-dotenv
+
+langchain-community
+langchain-openai
+langchain-chroma
+transformers
+gradio
+ipykernel
+ipywidgets
